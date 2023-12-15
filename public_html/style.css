@@ -1,0 +1,78 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ecf0f1; 
+}
+
+
+.imagen-perfil {
+    max-width: 600px;
+    margin: 50px auto; 
+    text-align: center;
+    padding: 20px;
+    background-color: #fff; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+.imagen-perfil img {
+    width: 150px; 
+    max-width: 100%; 
+    border-radius: 50%; 
+    margin: 0 auto; 
+    display: block; 
+    margin-bottom: 20px; 
+    border: 4px solid #cb4335;
+}
+
+
+.header {
+    background-color: #cb4335;
+    text-align: center;
+    padding: 20px;
+    color: #1D1150;
+}
+
+
+.footer {
+    background-color: #cb4335;
+    text-align: center;
+    padding: 10px;
+    color: #fff; 
+}
+
+
+.social-links a {
+    display: block;
+    margin: 10px 0; 
+    text-decoration: none;
+    color: #333; 
+    font-size: 16px; 
+    transition: color 0.3s; 
+}
+
+
+.social-links a:hover {
+    color: #0DFF18; 
+}
+
+
+.imagen-perfil h2 {
+    color: #cb4335; 
+}
+
+
+.imagen-perfil p {
+    color: #555; 
+}
+
+.imagen-perfil h3 {
+    color: #cb4335; 
+}
+
+.habilidades {
+    color: #555; 
+}
